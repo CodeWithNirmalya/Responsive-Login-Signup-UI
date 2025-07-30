@@ -33,7 +33,7 @@ Responsive-Login-Signup/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Responsive-Login-Signup.git
+   git clone https://github.com/CodeWithNirmalya/Responsive-Login-Signup.git
 ``
 
 ### 📸 Screenshots
